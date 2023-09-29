@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+header {
+  background: #1D3964;
+  color: white;
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+
+.campo1{
+  background: #0A1D34;
+  color: white;
+  width: 20rem;
+  height: 1.7rem;
+  border-radius: 0.5rem;
+  margin-inline: auto;
+}
+
+form {
+  width: 20rem;
+  margin-inline: auto;
+}
+
+button{
+  background: #F7B733;
+  width: 20rem;
+  height: 1.4rem;
+  margin-inline: auto;
+}
+

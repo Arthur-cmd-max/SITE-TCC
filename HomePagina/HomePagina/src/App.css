@@ -1,0 +1,71 @@
+*{
+
+  margin: 0;
+  padding: 0;
+  background: #1D3964;
+  text-align: center;
+  margin-top: 8rem;
+  color: white;
+  
+}
+
+h1 {
+    text-align: left;
+    margin-top: auto;
+    display: inline-flex;
+    letter-spacing:  10px;
+}
+
+h3 {
+  text-align: center;
+  margin-top: auto;
+  display: inline-flex;
+}
+
+
+button {
+
+  color: black;
+  background: #F7B733;
+  width: 10rem;
+  height: 1.4rem;
+  margin-inline: auto;
+}
+
+.Home {
+
+  color: white;
+  width: 10rem;
+  height: 1.4rem;
+  margin-inline: auto;
+  background: none;
+}
+
+.Informacoes {
+
+  color: white;
+  width: 10rem;
+  height: 1.4rem;
+  margin-inline: auto;
+  background: none;
+}
+
+.Sobre {
+
+  color: white;
+  width: 10rem;
+  height: 1.4rem;
+  margin-inline: auto;
+  background: none;
+
+}
+
+.Bibliografia {
+
+  color: white;
+  width: 10rem;
+  height: 1.4rem;
+  margin-inline: auto;
+  background: none;
+  
+}
